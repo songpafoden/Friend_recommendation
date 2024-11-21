@@ -1,0 +1,1202 @@
+[
+    {
+        "student_id": "202101",
+        "age": 23,
+        "name": "김준호",
+        "gender": "남자",
+        "military_status": "미필",
+        "mbti": "ISTJ",
+        "department": "전기공학과",
+        "hobby": "축구"
+    },
+    {
+        "student_id": "202102",
+        "age": 23,
+        "name": "이민수",
+        "gender": "남자",
+        "military_status": "미필",
+        "mbti": "ENFP",
+        "department": "에너지IT학과",
+        "hobby": "음악 감상"
+    },
+    {
+        "student_id": "202103",
+        "age": 25,
+        "name": "박현우",
+        "gender": "남자",
+        "military_status": "군필",
+        "mbti": "INFJ",
+        "department": "스마트시티학과",
+        "hobby": "낚시"
+    },
+    {
+        "student_id": "202104",
+        "age": 23,
+        "name": "최지훈",
+        "gender": "남자",
+        "military_status": "미필",
+        "mbti": "ESTP",
+        "department": "스마트시티학과",
+        "hobby": "캠핑"
+    },
+    {
+        "student_id": "202105",
+        "age": 23,
+        "name": "정태민",
+        "gender": "남자",
+        "military_status": "미필",
+        "mbti": "INTJ",
+        "department": "컴퓨터공학전공",
+        "hobby": "게임"
+    },
+    {
+        "student_id": "202106",
+        "age": 24,
+        "name": "강영준",
+        "gender": "남자",
+        "military_status": "미필",
+        "mbti": "ISFP",
+        "department": "스마트시티학과",
+        "hobby": "축구"
+    },
+    {
+        "student_id": "202107",
+        "age": 27,
+        "name": "윤도윤",
+        "gender": "남자",
+        "military_status": "군필",
+        "mbti": "ENFJ",
+        "department": "AI·소프트웨어학부",
+        "hobby": "영화 감상"
+    },
+    {
+        "student_id": "202108",
+        "age": 25,
+        "name": "조민준",
+        "gender": "남자",
+        "military_status": "군필",
+        "mbti": "ENTP",
+        "department": "의공학과",
+        "hobby": "헬스"
+    },
+    {
+        "student_id": "202109",
+        "age": 23,
+        "name": "임석현",
+        "gender": "남자",
+        "military_status": "미필",
+        "mbti": "ISFJ",
+        "department": "스마트시티학과",
+        "hobby": "악기 연주"
+    },
+    {
+        "student_id": "202110",
+        "age": 23,
+        "name": "오수현",
+        "gender": "남자",
+        "military_status": "미필",
+        "mbti": "INTP",
+        "department": "의공학과",
+        "hobby": "여행"
+    },
+    {
+        "student_id": "202111",
+        "age": 25,
+        "name": "장동욱",
+        "gender": "남자",
+        "military_status": "군필",
+        "mbti": "ESFP",
+        "department": "에너지IT학과",
+        "hobby": "요리"
+    },
+    {
+        "student_id": "202112",
+        "age": 24,
+        "name": "신상우",
+        "gender": "남자",
+        "military_status": "군필",
+        "mbti": "ESTJ",
+        "department": "클라우드공학과",
+        "hobby": "클라이밍"
+    },
+    {
+        "student_id": "202113",
+        "age": 26,
+        "name": "서지후",
+        "gender": "남자",
+        "military_status": "군필",
+        "mbti": "INFP",
+        "department": "컴퓨터공학전공",
+        "hobby": "등산"
+    },
+    {
+        "student_id": "202114",
+        "age": 24,
+        "name": "한건우",
+        "gender": "남자",
+        "military_status": "미필",
+        "mbti": "ISTP",
+        "department": "전기공학과",
+        "hobby": "캠핑"
+    },
+    {
+        "student_id": "202115",
+        "age": 26,
+        "name": "황시우",
+        "gender": "남자",
+        "military_status": "군필",
+        "mbti": "ENTJ",
+        "department": "AI·소프트웨어학부",
+        "hobby": "독서"
+    },
+    {
+        "student_id": "202116",
+        "age": 23,
+        "name": "김지연",
+        "gender": "여자",
+        "military_status": "미필",
+        "mbti": "ESFJ",
+        "department": "클라우드공학과",
+        "hobby": "악기 연주"
+    },
+    {
+        "student_id": "202117",
+        "age": 23,
+        "name": "이민서",
+        "gender": "여자",
+        "military_status": "미필",
+        "mbti": "ISFP",
+        "department": "클라우드공학과",
+        "hobby": "악기 연주"
+    },
+    {
+        "student_id": "202118",
+        "age": 24,
+        "name": "박서연",
+        "gender": "여자",
+        "military_status": "미필",
+        "mbti": "ENFP",
+        "department": "의공학과",
+        "hobby": "사진 촬영"
+    },
+    {
+        "student_id": "202119",
+        "age": 23,
+        "name": "최예린",
+        "gender": "여자",
+        "military_status": "미필",
+        "mbti": "ISTJ",
+        "department": "스마트시티학과",
+        "hobby": "악기 연주"
+    },
+    {
+        "student_id": "202120",
+        "age": 25,
+        "name": "정유진",
+        "gender": "여자",
+        "military_status": "미필",
+        "mbti": "INTP",
+        "department": "전기공학과",
+        "hobby": "음악 감상"
+    },
+    {
+        "student_id": "202121",
+        "age": 24,
+        "name": "강은서",
+        "gender": "여자",
+        "military_status": "미필",
+        "mbti": "INFJ",
+        "department": "전기공학과",
+        "hobby": "게임"
+    },
+    {
+        "student_id": "202122",
+        "age": 24,
+        "name": "윤채연",
+        "gender": "여자",
+        "military_status": "미필",
+        "mbti": "ENTJ",
+        "department": "컴퓨터공학전공",
+        "hobby": "영화 감상"
+    },
+    {
+        "student_id": "202123",
+        "age": 27,
+        "name": "조지민",
+        "gender": "여자",
+        "military_status": "미필",
+        "mbti": "ESFP",
+        "department": "클라우드공학과",
+        "hobby": "사진 촬영"
+    },
+    {
+        "student_id": "202124",
+        "age": 25,
+        "name": "임나연",
+        "gender": "여자",
+        "military_status": "미필",
+        "mbti": "ISFJ",
+        "department": "컴퓨터공학전공",
+        "hobby": "클라이밍"
+    },
+    {
+        "student_id": "202125",
+        "age": 24,
+        "name": "오서윤",
+        "gender": "여자",
+        "military_status": "미필",
+        "mbti": "ENFJ",
+        "department": "바이오의료기기학과",
+        "hobby": "농구"
+    },
+    {
+        "student_id": "202126",
+        "age": 25,
+        "name": "장수진",
+        "gender": "여자",
+        "military_status": "미필",
+        "mbti": "ISTP",
+        "department": "바이오의료기기학과",
+        "hobby": "캠핑"
+    },
+    {
+        "student_id": "202127",
+        "age": 25,
+        "name": "신다연",
+        "gender": "여자",
+        "military_status": "미필",
+        "mbti": "ENFP",
+        "department": "컴퓨터공학전공",
+        "hobby": "농구"
+    },
+    {
+        "student_id": "202128",
+        "age": 24,
+        "name": "서지은",
+        "gender": "여자",
+        "military_status": "미필",
+        "mbti": "ESTJ",
+        "department": "의공학과",
+        "hobby": "여행"
+    },
+    {
+        "student_id": "202129",
+        "age": 25,
+        "name": "한예진",
+        "gender": "여자",
+        "military_status": "미필",
+        "mbti": "INTJ",
+        "department": "에너지IT학과",
+        "hobby": "게임"
+    },
+    {
+        "student_id": "202130",
+        "age": 26,
+        "name": "황아린",
+        "gender": "여자",
+        "military_status": "미필",
+        "mbti": "ISFJ",
+        "department": "스마트보안전공",
+        "hobby": "악기 연주"
+    },
+    {
+        "student_id": "202201",
+        "age": 22,
+        "name": "김지훈",
+        "gender": "남자",
+        "military_status": "군필",
+        "mbti": "ISTJ",
+        "department": "AI·소프트웨어학부",
+        "hobby": "독서"
+    },
+    {
+        "student_id": "202202",
+        "age": 22,
+        "name": "이수민",
+        "gender": "남자",
+        "military_status": "미필",
+        "mbti": "ENFP",
+        "department": "AI·소프트웨어학부",
+        "hobby": "롤"
+    },
+    {
+        "student_id": "202203",
+        "age": 25,
+        "name": "하상우",
+        "gender": "남자",
+        "military_status": "군필",
+        "mbti": "INFJ",
+        "department": "의공학과",
+        "hobby": "클라이밍"
+    },
+    {
+        "student_id": "202204",
+        "age": 22,
+        "name": "최준서",
+        "gender": "남자",
+        "military_status": "군필",
+        "mbti": "ESTP",
+        "department": "스마트시티학과",
+        "hobby": "롤"
+    },
+    {
+        "student_id": "202205",
+        "age": 22,
+        "name": "류태양",
+        "gender": "남자",
+        "military_status": "군필",
+        "mbti": "ESTP",
+        "department": "AI·소프트웨어학부",
+        "hobby": "축구"
+    },
+    {
+        "student_id": "202206",
+        "age": 23,
+        "name": "조민재",
+        "gender": "남자",
+        "military_status": "군필",
+        "mbti": "INTJ",
+        "department": "전기공학과",
+        "hobby": "배틀그라운드"
+    },
+    {
+        "student_id": "202207",
+        "age": 22,
+        "name": "박민수",
+        "gender": "남자",
+        "military_status": "군필",
+        "mbti": "ISFP",
+        "department": "스마트시티학과",
+        "hobby": "축구"
+    },
+    {
+        "student_id": "202208",
+        "age": 22,
+        "name": "윤지현",
+        "gender": "남자",
+        "military_status": "군필",
+        "mbti": "ISTP",
+        "department": "바이오의료기기학과",
+        "hobby": "롤"
+    },
+    {
+        "student_id": "202209",
+        "age": 23,
+        "name": "한진우",
+        "gender": "남자",
+        "military_status": "군필",
+        "mbti": "INTP",
+        "department": "에너지IT학과",
+        "hobby": "오버워치"
+    },
+    {
+        "student_id": "202210",
+        "age": 22,
+        "name": "이재우",
+        "gender": "남자",
+        "military_status": "미필",
+        "mbti": "INTJ",
+        "department": "컴퓨터공학전공",
+        "hobby": "헬스"
+    },
+    {
+        "student_id": "202211",
+        "age": 24,
+        "name": "김현중",
+        "gender": "남자",
+        "military_status": "군필",
+        "mbti": "ESTJ",
+        "department": "AI·소프트웨어학부",
+        "hobby": "여행"
+    },
+    {
+        "student_id": "202212",
+        "age": 27,
+        "name": "송경민",
+        "gender": "남자",
+        "military_status": "군필",
+        "mbti": "ENTJ",
+        "department": "AI·소프트웨어학부",
+        "hobby": "클라이밍"
+    },
+    {
+        "student_id": "202213",
+        "age": 22,
+        "name": "배진수",
+        "gender": "남자",
+        "military_status": "미필",
+        "mbti": "ISFJ",
+        "department": "클라우드공학과",
+        "hobby": "게임"
+    },
+    {
+        "student_id": "202214",
+        "age": 22,
+        "name": "유태훈",
+        "gender": "남자",
+        "military_status": "군필",
+        "mbti": "ENTJ",
+        "department": "전기공학과",
+        "hobby": "농구"
+    },
+    {
+        "student_id": "202215",
+        "age": 24,
+        "name": "김기현",
+        "gender": "남자",
+        "military_status": "군필",
+        "mbti": "ENTP",
+        "department": "스마트시티학과",
+        "hobby": "농구"
+    },
+    {
+        "student_id": "202216",
+        "age": 22,
+        "name": "박현아",
+        "gender": "여자",
+        "military_status": "미필",
+        "mbti": "INFJ",
+        "department": "클라우드공학과",
+        "hobby": "여행"
+    },
+    {
+        "student_id": "202217",
+        "age": 22,
+        "name": "정세연",
+        "gender": "여자",
+        "military_status": "미필",
+        "mbti": "ISFJ",
+        "department": "바이오의료기기학과",
+        "hobby": "여행"
+    },
+    {
+        "student_id": "202218",
+        "age": 22,
+        "name": "임유진",
+        "gender": "여자",
+        "military_status": "미필",
+        "mbti": "ENFJ",
+        "department": "스마트보안전공",
+        "hobby": "드라마 감상"
+    },
+    {
+        "student_id": "202219",
+        "age": 22,
+        "name": "강다현",
+        "gender": "여자",
+        "military_status": "미필",
+        "mbti": "ESFJ",
+        "department": "컴퓨터공학전공",
+        "hobby": "독서"
+    },
+    {
+        "student_id": "202220",
+        "age": 22,
+        "name": "오수아",
+        "gender": "여자",
+        "military_status": "미필",
+        "mbti": "ISFP",
+        "department": "의공학과",
+        "hobby": "미술"
+    },
+    {
+        "student_id": "202221",
+        "age": 22,
+        "name": "박나래",
+        "gender": "여자",
+        "military_status": "미필",
+        "mbti": "ENFP",
+        "department": "스마트보안전공",
+        "hobby": "여행"
+    },
+    {
+        "student_id": "202222",
+        "age": 22,
+        "name": "문나윤",
+        "gender": "여자",
+        "military_status": "미필",
+        "mbti": "ESFJ",
+        "department": "클라우드공학과",
+        "hobby": "여행"
+    },
+    {
+        "student_id": "202223",
+        "age": 22,
+        "name": "강유리",
+        "gender": "여자",
+        "military_status": "미필",
+        "mbti": "ISFJ",
+        "department": "스마트시티학과",
+        "hobby": "미술"
+    },
+    {
+        "student_id": "202224",
+        "age": 22,
+        "name": "정민지",
+        "gender": "여자",
+        "military_status": "미필",
+        "mbti": "ENFP",
+        "department": "스마트보안전공",
+        "hobby": "사진 찍기"
+    },
+    {
+        "student_id": "202225",
+        "age": 22,
+        "name": "한혜진",
+        "gender": "여자",
+        "military_status": "미필",
+        "mbti": "ISFP",
+        "department": "에너지IT학과",
+        "hobby": "롤"
+    },
+    {
+        "student_id": "202226",
+        "age": 22,
+        "name": "김하늘",
+        "gender": "여자",
+        "military_status": "미필",
+        "mbti": "ENFP",
+        "department": "AI·소프트웨어학부",
+        "hobby": "헬스"
+    },
+    {
+        "student_id": "202227",
+        "age": 22,
+        "name": "최민수",
+        "gender": "여자",
+        "military_status": "미필",
+        "mbti": "ENFP",
+        "department": "컴퓨터공학전공",
+        "hobby": "음악감상"
+    },
+    {
+        "student_id": "202228",
+        "age": 24,
+        "name": "강하은",
+        "gender": "여자",
+        "military_status": "미필",
+        "mbti": "INTP",
+        "department": "에너지IT학과",
+        "hobby": "여행"
+    },
+    {
+        "student_id": "202229",
+        "age": 22,
+        "name": "김윤진",
+        "gender": "여자",
+        "military_status": "미필",
+        "mbti": "ESFP",
+        "department": "스마트보안전공",
+        "hobby": "사진 찍기"
+    },
+    {
+        "student_id": "202230",
+        "age": 22,
+        "name": "이진서",
+        "gender": "여자",
+        "military_status": "미필",
+        "mbti": "ENFJ",
+        "department": "바이오의료기기학과",
+        "hobby": "영화 감상"
+    },
+    {
+        "student_id": "202231",
+        "age": 21,
+        "name": "김철수",
+        "gender": "남자",
+        "military_status": "미필",
+        "mbti": "INTP",
+        "department": "컴퓨터공학전공",
+        "hobby": "독서"
+    },
+    {
+        "student_id": "202232",
+        "age": 24,
+        "name": "강민수",
+        "gender": "남자",
+        "military_status": "미필",
+        "mbti": "ISTJ",
+        "department": "AI·소프트웨어학부",
+        "hobby": "오버워치"
+    },
+    {
+        "student_id": "202233",
+        "age": 26,
+        "name": "조현우",
+        "gender": "남자",
+        "military_status": "군필",
+        "mbti": "ENFP",
+        "department": "클라우드공학과",
+        "hobby": "게임"
+    },
+    {
+        "student_id": "202234",
+        "age": 22,
+        "name": "정해인",
+        "gender": "남자",
+        "military_status": "군필",
+        "mbti": "INTP",
+        "department": "전기공학과",
+        "hobby": "게임"
+    },
+    {
+        "student_id": "202235",
+        "age": 21,
+        "name": "이준호",
+        "gender": "남자",
+        "military_status": "미필",
+        "mbti": "INTP",
+        "department": "스마트보안전공",
+        "hobby": "축구"
+    },
+    {
+        "student_id": "202236",
+        "age": 25,
+        "name": "오지호",
+        "gender": "남자",
+        "military_status": "군필",
+        "mbti": "ISTJ",
+        "department": "스마트보안전공",
+        "hobby": "여행"
+    },
+    {
+        "student_id": "202237",
+        "age": 24,
+        "name": "윤정호",
+        "gender": "남자",
+        "military_status": "군필",
+        "mbti": "ISTJ",
+        "department": "클라우드공학과",
+        "hobby": "악기 연주"
+    },
+    {
+        "student_id": "202238",
+        "age": 25,
+        "name": "박서준",
+        "gender": "남자",
+        "military_status": "군필",
+        "mbti": "ENTP",
+        "department": "의공학과",
+        "hobby": "축구"
+    },
+    {
+        "student_id": "202239",
+        "age": 27,
+        "name": "남주혁",
+        "gender": "남자",
+        "military_status": "군필",
+        "mbti": "ISTJ",
+        "department": "클라우드공학과",
+        "hobby": "요리"
+    },
+    {
+        "student_id": "202240",
+        "age": 22,
+        "name": "최민호",
+        "gender": "남자",
+        "military_status": "군필",
+        "mbti": "ISTJ",
+        "department": "에너지IT학과",
+        "hobby": "롤"
+    },
+    {
+        "student_id": "202241",
+        "age": 21,
+        "name": "박서준",
+        "gender": "남자",
+        "military_status": "미필",
+        "mbti": "ENTP",
+        "department": "클라우드공학과",
+        "hobby": "배틀그라운드"
+    },
+    {
+        "student_id": "202242",
+        "age": 27,
+        "name": "김철수",
+        "gender": "남자",
+        "military_status": "미필",
+        "mbti": "ENFP",
+        "department": "컴퓨터공학전공",
+        "hobby": "게임"
+    },
+    {
+        "student_id": "202243",
+        "age": 23,
+        "name": "최민호",
+        "gender": "남자",
+        "military_status": "군필",
+        "mbti": "ESFJ",
+        "department": "스마트시티학과",
+        "hobby": "악기 연주"
+    },
+    {
+        "student_id": "202244",
+        "age": 20,
+        "name": "이준호",
+        "gender": "남자",
+        "military_status": "미필",
+        "mbti": "ESFJ",
+        "department": "게임·영상학과",
+        "hobby": "클라이밍"
+    },
+    {
+        "student_id": "202245",
+        "age": 21,
+        "name": "박민호",
+        "gender": "남자",
+        "military_status": "군필",
+        "mbti": "ENFP",
+        "department": "클라우드공학과",
+        "hobby": "배틀그라운드"
+    },
+    {
+        "student_id": "202246",
+        "age": 24,
+        "name": "문가영",
+        "gender": "여자",
+        "military_status": "미필",
+        "mbti": "ESFJ",
+        "department": "AI·소프트웨어학부",
+        "hobby": "클라이밍"
+    },
+    {
+        "student_id": "202247",
+        "age": 21,
+        "name": "서현진",
+        "gender": "여자",
+        "military_status": "미필",
+        "mbti": "ENFP",
+        "department": "바이오의료기기학과",
+        "hobby": "음악 감상"
+    },
+    {
+        "student_id": "202248",
+        "age": 25,
+        "name": "임다연",
+        "gender": "여자",
+        "military_status": "미필",
+        "mbti": "ISTJ",
+        "department": "스마트보안전공",
+        "hobby": "축구"
+    },
+    {
+        "student_id": "202249",
+        "age": 20,
+        "name": "윤아름",
+        "gender": "여자",
+        "military_status": "미필",
+        "mbti": "ESFJ",
+        "department": "에너지IT학과",
+        "hobby": "낚시"
+    },
+    {
+        "student_id": "202250",
+        "age": 20,
+        "name": "송다혜",
+        "gender": "여자",
+        "military_status": "미필",
+        "mbti": "ISTJ",
+        "department": "AI·소프트웨어학부",
+        "hobby": "요리"
+    },
+    {
+        "student_id": "202251",
+        "age": 23,
+        "name": "배수지",
+        "gender": "여자",
+        "military_status": "미필",
+        "mbti": "ENFP",
+        "department": "AI·소프트웨어학부",
+        "hobby": "독서"
+    },
+    {
+        "student_id": "202252",
+        "age": 25,
+        "name": "전소미",
+        "gender": "여자",
+        "military_status": "미필",
+        "mbti": "INFJ",
+        "department": "스마트시티학과",
+        "hobby": "게임"
+    },
+    {
+        "student_id": "202253",
+        "age": 23,
+        "name": "박영희",
+        "gender": "여자",
+        "military_status": "미필",
+        "mbti": "ENTP",
+        "department": "컴퓨터공학전공",
+        "hobby": "클라이밍"
+    },
+    {
+        "student_id": "202254",
+        "age": 23,
+        "name": "장예림",
+        "gender": "여자",
+        "military_status": "미필",
+        "mbti": "ENTP",
+        "department": "스마트보안전공",
+        "hobby": "미술"
+    },
+    {
+        "student_id": "202255",
+        "age": 26,
+        "name": "최지연",
+        "gender": "여자",
+        "military_status": "미필",
+        "mbti": "INTP",
+        "department": "스마트보안전공",
+        "hobby": "게임"
+    },
+    {
+        "student_id": "202256",
+        "age": 27,
+        "name": "윤아름",
+        "gender": "여자",
+        "military_status": "미필",
+        "mbti": "ENFP",
+        "department": "스마트시티학과",
+        "hobby": "요리"
+    },
+    {
+        "student_id": "202257",
+        "age": 24,
+        "name": "박영희",
+        "gender": "여자",
+        "military_status": "미필",
+        "mbti": "INTP",
+        "department": "게임·영상학과",
+        "hobby": "축구"
+    },
+    {
+        "student_id": "202258",
+        "age": 20,
+        "name": "최지연",
+        "gender": "여자",
+        "military_status": "미필",
+        "mbti": "ENFP",
+        "department": "클라우드공학과",
+        "hobby": "캠핑"
+    },
+    {
+        "student_id": "202259",
+        "age": 26,
+        "name": "문가영",
+        "gender": "여자",
+        "military_status": "미필",
+        "mbti": "ISTJ",
+        "department": "게임·영상학과",
+        "hobby": "독서"
+    },
+    {
+        "student_id": "202260",
+        "age": 24,
+        "name": "강혜진",
+        "gender": "여자",
+        "military_status": "미필",
+        "mbti": "INTP",
+        "department": "게임·영상학과",
+        "hobby": "요리"
+    },
+    {
+        "student_id": "202301",
+        "age": 20,
+        "name": "양현석",
+        "gender": "남자",
+        "military_status": "미필",
+        "mbti": "ISTJ",
+        "department": "전기공학과",
+        "hobby": "춤"
+    },
+    {
+        "student_id": "202302",
+        "age": 20,
+        "name": "권지용",
+        "gender": "남자",
+        "military_status": "미필",
+        "mbti": "ISTP",
+        "department": "에너지IT학과",
+        "hobby": "여행"
+    },
+    {
+        "student_id": "202303",
+        "age": 20,
+        "name": "동영배",
+        "gender": "남자",
+        "military_status": "미필",
+        "mbti": "ENTP",
+        "department": "스마트시티학과",
+        "hobby": "축구"
+    },
+    {
+        "student_id": "202304",
+        "age": 20,
+        "name": "최승현",
+        "gender": "남자",
+        "military_status": "미필",
+        "mbti": "ESFJ",
+        "department": "컴퓨터공학전공",
+        "hobby": "농구"
+    },
+    {
+        "student_id": "202305",
+        "age": 20,
+        "name": "강대성",
+        "gender": "남자",
+        "military_status": "미필",
+        "mbti": "ENFP",
+        "department": "AI·소프트웨어학부",
+        "hobby": "야구"
+    },
+    {
+        "student_id": "202306",
+        "age": 20,
+        "name": "장현승",
+        "gender": "남자",
+        "military_status": "미필",
+        "mbti": "ESFJ",
+        "department": "의공학과",
+        "hobby": "테니스"
+    },
+    {
+        "student_id": "202307",
+        "age": 20,
+        "name": "방시혁",
+        "gender": "남자",
+        "military_status": "미필",
+        "mbti": "ISFJ",
+        "department": "클라우드공학과",
+        "hobby": "배구"
+    },
+    {
+        "student_id": "202308",
+        "age": 20,
+        "name": "김남준",
+        "gender": "남자",
+        "military_status": "미필",
+        "mbti": "ENFP",
+        "department": "바이오의료기기학과",
+        "hobby": "사격"
+    },
+    {
+        "student_id": "202309",
+        "age": 20,
+        "name": "박지민",
+        "gender": "남자",
+        "military_status": "미필",
+        "mbti": "ESFP",
+        "department": "스마트보안전공",
+        "hobby": "승마"
+    },
+    {
+        "student_id": "202310",
+        "age": 20,
+        "name": "김태형",
+        "gender": "남자",
+        "military_status": "미필",
+        "mbti": "ENTP",
+        "department": "전기공학과",
+        "hobby": "독서"
+    },
+    {
+        "student_id": "202311",
+        "age": 20,
+        "name": "전정국",
+        "gender": "남자",
+        "military_status": "미필",
+        "mbti": "ENTJ",
+        "department": "에너지IT학과",
+        "hobby": "영화"
+    },
+    {
+        "student_id": "202312",
+        "age": 21,
+        "name": "정헌철",
+        "gender": "남자",
+        "military_status": "미필",
+        "mbti": "ESFP",
+        "department": "스마트시티학과",
+        "hobby": "산책"
+    },
+    {
+        "student_id": "202313",
+        "age": 21,
+        "name": "김하온",
+        "gender": "남자",
+        "military_status": "미필",
+        "mbti": "ESFP",
+        "department": "컴퓨터공학전공",
+        "hobby": "음악"
+    },
+    {
+        "student_id": "202314",
+        "age": 21,
+        "name": "박재법",
+        "gender": "남자",
+        "military_status": "미필",
+        "mbti": "INTP",
+        "department": "AI·소프트웨어학부",
+        "hobby": "춤"
+    },
+    {
+        "student_id": "202315",
+        "age": 22,
+        "name": "구창모",
+        "gender": "남자",
+        "military_status": "미필",
+        "mbti": "ENFJ",
+        "department": "의공학과",
+        "hobby": "헬스"
+    },
+    {
+        "student_id": "202316",
+        "age": 20,
+        "name": "장원영",
+        "gender": "여자",
+        "military_status": "미필",
+        "mbti": "ISFJ",
+        "department": "클라우드공학과",
+        "hobby": "댄스"
+    },
+    {
+        "student_id": "202317",
+        "age": 20,
+        "name": "안유진",
+        "gender": "여자",
+        "military_status": "미필",
+        "mbti": "ESFP",
+        "department": "바이오의료기기학과",
+        "hobby": "노래"
+    },
+    {
+        "student_id": "202318",
+        "age": 20,
+        "name": "김가을",
+        "gender": "여자",
+        "military_status": "미필",
+        "mbti": "ENTJ",
+        "department": "스마트보안전공",
+        "hobby": "축구"
+    },
+    {
+        "student_id": "202319",
+        "age": 20,
+        "name": "이현서",
+        "gender": "여자",
+        "military_status": "미필",
+        "mbti": "INTJ",
+        "department": "전기공학과",
+        "hobby": "영화"
+    },
+    {
+        "student_id": "202320",
+        "age": 20,
+        "name": "김지원",
+        "gender": "여자",
+        "military_status": "미필",
+        "mbti": "INTP",
+        "department": "에너지IT학과",
+        "hobby": "헬스"
+    },
+    {
+        "student_id": "202321",
+        "age": 20,
+        "name": "배수지",
+        "gender": "여자",
+        "military_status": "미필",
+        "mbti": "ENTJ",
+        "department": "스마트시티학과",
+        "hobby": "영화"
+    },
+    {
+        "student_id": "202322",
+        "age": 20,
+        "name": "유지민",
+        "gender": "여자",
+        "military_status": "미필",
+        "mbti": "ISFP",
+        "department": "컴퓨터공학전공",
+        "hobby": "독서"
+    },
+    {
+        "student_id": "202323",
+        "age": 20,
+        "name": "김민정",
+        "gender": "여자",
+        "military_status": "미필",
+        "mbti": "INFJ",
+        "department": "AI·소프트웨어학부",
+        "hobby": "음악"
+    },
+    {
+        "student_id": "202324",
+        "age": 21,
+        "name": "한소희",
+        "gender": "여자",
+        "military_status": "미필",
+        "mbti": "ISTP",
+        "department": "의공학과",
+        "hobby": "독서"
+    },
+    {
+        "student_id": "202325",
+        "age": 21,
+        "name": "배현진",
+        "gender": "여자",
+        "military_status": "미필",
+        "mbti": "ISFP",
+        "department": "클라우드공학과",
+        "hobby": "영화"
+    },
+    {
+        "student_id": "202326",
+        "age": 21,
+        "name": "조미연",
+        "gender": "여자",
+        "military_status": "미필",
+        "mbti": "ENTJ",
+        "department": "바이오의료기기학과",
+        "hobby": "축구"
+    },
+    {
+        "student_id": "202327",
+        "age": 21,
+        "name": "전소연",
+        "gender": "여자",
+        "military_status": "미필",
+        "mbti": "ESFJ",
+        "department": "스마트보안전공",
+        "hobby": "음악"
+    },
+    {
+        "student_id": "202328",
+        "age": 21,
+        "name": "인세연",
+        "gender": "여자",
+        "military_status": "미필",
+        "mbti": "ENTJ",
+        "department": "AI·소프트웨어학부",
+        "hobby": "피파"
+    },
+    {
+        "student_id": "202329",
+        "age": 22,
+        "name": "임선아",
+        "gender": "여자",
+        "military_status": "미필",
+        "mbti": "ESFP",
+        "department": "AI·소프트웨어학부",
+        "hobby": "롤"
+    },
+    {
+        "student_id": "202330",
+        "age": 22,
+        "name": "배주현",
+        "gender": "여자",
+        "military_status": "미필",
+        "mbti": "ESFP",
+        "department": "AI·소프트웨어학부",
+        "hobby": "밴드"
+    }
+]

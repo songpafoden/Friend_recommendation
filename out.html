@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>추천 친구 리스트</title>
+</head>
+<body>
+    <header>
+        <h1>추천 친구 리스트</h1>
+    </header>
+
+    <main id="recommendation" style="margin-top: 20px;">
+        <div id="recommendedFriends"></div>
+        <button id="retryButton" style="display: block; margin: 20px auto;">계속 찾아보기</button>
+    </main>
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            // localStorage에서 추천 친구 데이터 가져오기
+            let bestMatches = JSON.parse(localStorage.getItem('bestMatches'));
+            if (bestMatches) {
+                let output = bestMatches.map(friend => 
+                    `<div class="friend-card">
+                        <h3>이름: ${friend.name}, 가중치: ${friend.score}</h3>
+                        <p>세부 사항: ${friend.details.join(', ')}</p>
+                        <p>나이: ${friend.age}, 성별: ${friend.gender}, MBTI: ${friend.mbti}, 전공: ${friend.department}, 취미: ${friend.hobby}, 군필 여부: ${friend.military_status}</p>
+                    </div>`
+                ).join('');
+                document.getElementById('recommendedFriends').innerHTML = output;
+            }
+        });
+
+        // 다시 찾아보기 버튼 클릭 시 input 페이지로 이동
+        document.getElementById('retryButton').addEventListener('click', function() {
+            window.location.href = 'input.html';
+        });
+    </script>
+</body>
+</html>
